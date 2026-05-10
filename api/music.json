@@ -2,145 +2,276 @@
   "albums": [
     {
       "id": "1",
-      "name": "电子脉冲",
-      "artist": "Cyber Sound",
-      "category": "电子",
-      "cover": "https://picsum.photos/seed/electronic/400/400",
+      "name": "热歌精选",
+      "artist": "热门歌手",
+      "category": "流行",
+      "cover": "https://picsum.photos/seed/pop1/400/400",
       "songs": [
         {
           "id": "101",
-          "title": "Digital Dreams",
-          "artist": "Cyber Sound",
+          "title": "起风了",
+          "artist": "买辣椒也用券",
           "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
-          "duration": 367,
+          "duration": 298,
           "lyrics": [
-            "[0.00] Welcome to the digital world",
-            "[5.00] Where dreams come alive",
-            "[10.00] Electric pulses flowing",
-            "[15.00] Through the midnight sky",
-            "[20.00] Neon lights are shining",
-            "[25.00] In the cyber night"
+            "[0.00] 我曾将青春翻涌成她",
+            "[5.00] 也曾指尖弹出盛夏",
+            "[10.00] 心之所动 且就随缘去吧",
+            "[15.00] 逆着光行走 任风吹雨打"
           ]
         },
         {
           "id": "102",
-          "title": "Neon City",
-          "artist": "Cyber Sound",
+          "title": "可能",
+          "artist": "程响",
           "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
-          "duration": 402,
+          "duration": 267,
           "lyrics": [
-            "[0.00] Walking through the neon city",
-            "[8.00] Lights are all around",
-            "[16.00] Digital heartbeat",
-            "[24.00] Echoes in the ground"
+            "[0.00] 可能南方的阳光 照着北方的风",
+            "[8.00] 可能时光被吹走 随风无影无踪",
+            "[16.00] 可能我们都是路过",
+            "[24.00] 可能这就是人生"
           ]
         }
       ]
     },
     {
       "id": "2",
-      "name": "古典精选",
-      "artist": "Symphony Orchestra",
-      "category": "古典",
-      "cover": "https://picsum.photos/seed/classical/400/400",
+      "name": "抖音神曲",
+      "artist": "多位歌手",
+      "category": "流行",
+      "cover": "https://picsum.photos/seed/douyin/400/400",
       "songs": [
         {
           "id": "201",
-          "title": "Moonlight Sonata",
-          "artist": "Beethoven",
+          "title": "在年少的光里走",
+          "artist": "王OK",
           "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
-          "duration": 382,
+          "duration": 234,
           "lyrics": [
-            "[0.00] Moonlight shines so bright",
-            "[20.00] Through my window pane",
-            "[40.00] Melodies of love",
-            "[60.00] Fill the silent night"
+            "[0.00] 在年少的光里走",
+            "[4.00] 带着理想去远方",
+            "[8.00] 所有的梦都在发光",
+            "[12.00] 青春不散场"
           ]
+        },
+        {
+          "id": "202",
+          "title": "像星星一样",
+          "artist": "DJ",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+          "duration": 289,
+          "lyrics": [
+            "[0.00] 你是夜空中最亮的星",
+            "[6.00] 照亮我前行的路",
+            "[12.00] 我愿追随你的光芒",
+            "[18.00] 穿越无尽的黑夜"
+          ]
+        },
+        {
+          "id": "203",
+          "title": "所爱",
+          "artist": "艾辰",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+          "duration": 256
         }
       ]
     },
     {
       "id": "3",
-      "name": "民谣时光",
-      "artist": "Acoustic Band",
-      "category": "民谣",
-      "cover": "https://picsum.photos/seed/folk/400/400",
+      "name": "华语经典",
+      "artist": "天王天后",
+      "category": "华语",
+      "cover": "https://picsum.photos/seed/classic/400/400",
       "songs": [
         {
           "id": "301",
-          "title": "Country Road",
-          "artist": "Acoustic Band",
-          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
-          "duration": 289,
+          "title": "晴天",
+          "artist": "周杰伦",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+          "duration": 267,
           "lyrics": [
-            "[0.00] Country roads take me home",
-            "[5.00] To the place I belong",
-            "[10.00] West Virginia",
-            "[15.00] Mountain mama"
+            "[0.00] 故事的小黄花",
+            "[5.00] 从出生那年就飘着",
+            "[10.00] 童年的荡秋千",
+            "[15.00] 随记忆一直晃到现在"
           ]
+        },
+        {
+          "id": "302",
+          "title": "稻香",
+          "artist": "周杰伦",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+          "duration": 234
+        },
+        {
+          "id": "303",
+          "title": "体面",
+          "artist": "于文文",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+          "duration": 245
         }
       ]
     },
     {
       "id": "4",
-      "name": "摇滚力量",
-      "artist": "Thunder Band",
-      "category": "摇滚",
-      "cover": "https://picsum.photos/seed/rock/400/400",
+      "name": "电子舞曲",
+      "artist": "EDM",
+      "category": "电子",
+      "cover": "https://picsum.photos/seed/edm/400/400",
       "songs": [
         {
           "id": "401",
-          "title": "Rebel Heart",
-          "artist": "Thunder Band",
-          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
-          "duration": 342,
+          "title": "Faded",
+          "artist": "Alan Walker",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+          "duration": 212,
           "lyrics": [
-            "[0.00] We are the rebels",
-            "[5.00] With a rebel heart",
-            "[10.00] Fighting for freedom",
-            "[15.00] We'll never part"
+            "[0.00] Where are you now",
+            "[5.00] Was it all in my fantasy",
+            "[10.00] Where are you now",
+            "[15.00] Are you only in my dreams"
           ]
+        },
+        {
+          "id": "402",
+          "title": "Alone",
+          "artist": "Marshmello",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+          "duration": 189
         }
       ]
     },
     {
       "id": "5",
-      "name": "爵士之夜",
-      "artist": "Blue Note",
-      "category": "爵士",
-      "cover": "https://picsum.photos/seed/jazz/400/400",
+      "name": "影视金曲",
+      "artist": "OST",
+      "category": "影视",
+      "cover": "https://picsum.photos/seed/ost/400/400",
       "songs": [
         {
           "id": "501",
-          "title": "Midnight Blues",
-          "artist": "Blue Note",
-          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
-          "duration": 356
+          "title": "去有风的地方",
+          "artist": "郁可唯",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+          "duration": 234,
+          "lyrics": [
+            "[0.00] 去有风的地方",
+            "[4.00] 找回爱的力量",
+            "[8.00] 让风吹散所有忧伤",
+            "[12.00] 遇见更好的自己"
+          ]
+        },
+        {
+          "id": "502",
+          "title": "长相思",
+          "artist": "张碧晨",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+          "duration": 267
+        },
+        {
+          "id": "503",
+          "title": "繁花",
+          "artist": "周深",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+          "duration": 245
         }
       ]
     },
     {
       "id": "6",
-      "name": "流行精选",
-      "artist": "Pop Stars",
-      "category": "流行",
-      "cover": "https://picsum.photos/seed/pop/400/400",
+      "name": "轻音乐",
+      "artist": "纯音乐",
+      "category": "轻音乐",
+      "cover": "https://picsum.photos/seed/ambient/400/400",
       "songs": [
         {
           "id": "601",
-          "title": "Summer Breeze",
-          "artist": "Pop Stars",
-          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
-          "duration": 298,
+          "title": "雨的印记",
+          "artist": "李闰珉",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+          "duration": 356
+        },
+        {
+          "id": "602",
+          "title": "天空之城",
+          "artist": "久石让",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+          "duration": 289
+        },
+        {
+          "id": "603",
+          "title": "River Flows In You",
+          "artist": "Yiruma",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3",
+          "duration": 198
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "说唱热单",
+      "artist": "rapper",
+      "category": "说唱",
+      "cover": "https://picsum.photos/seed/rap/400/400",
+      "songs": [
+        {
+          "id": "701",
+          "title": "经济舱",
+          "artist": "KEY",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+          "duration": 198,
           "lyrics": [
-            "[0.00] Summer breeze makes me feel fine",
-            "[5.00] Blowing through the jasmine in my mind",
-            "[10.00] Summer breeze makes me feel fine",
-            "[15.00] Blowing through the jasmine in my mind"
+            "[0.00] 经济舱 经济舱",
+            "[4.00] 飞向梦想的远方",
+            "[8.00] 不管身在何处",
+            "[12.00] 心永远在飞翔"
           ]
+        },
+        {
+          "id": "702",
+          "title": "麒麟",
+          "artist": "早安",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+          "duration": 212
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "港台经典",
+      "artist": "港台歌手",
+      "category": "港台",
+      "cover": "https://picsum.photos/seed/hktw/400/400",
+      "songs": [
+        {
+          "id": "801",
+          "title": "富士山下",
+          "artist": "陈奕迅",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+          "duration": 267,
+          "lyrics": [
+            "[0.00] 拦路雨偏似雪花 饮泣的你冻吗",
+            "[8.00] 这风褛我给你磨到有襟花",
+            "[16.00] 连调了职也不怕 怎么始终牵挂"
+          ]
+        },
+        {
+          "id": "802",
+          "title": "匆匆那年",
+          "artist": "王菲",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+          "duration": 245
+        },
+        {
+          "id": "803",
+          "title": "说好的幸福呢",
+          "artist": "周杰伦",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+          "duration": 256
         }
       ]
     }
   ],
-  "categories": ["全部", "电子", "古典", "民谣", "摇滚", "爵士", "流行"]
+  "categories": ["全部", "流行", "华语", "电子", "影视", "轻音乐", "说唱", "港台"]
 }

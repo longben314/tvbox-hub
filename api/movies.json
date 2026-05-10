@@ -2,124 +2,345 @@
   "movies": [
     {
       "id": "1",
-      "title": "星际穿越",
+      "title": "热辣滚烫",
       "category": "电影",
-      "year": "2014",
-      "rating": "9.4",
-      "quality": "4K",
-      "poster": "https://picsum.photos/seed/interstellar/400/600",
-      "description": "一队探险家利用虫洞穿越星际，寻找人类新家园的科幻巨作",
+      "year": "2024",
+      "rating": "8.2",
+      "quality": "1080P",
+      "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890441244.jpg",
+      "description": "贾玲执导并主演，讲述一个关于自我改变与成长的励志故事",
       "play_url": [
-        "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-        "https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-576p.mp4"
+        "https://vip.languangjituan.cn/20240329/OTzP0c0T/2000kb/hls/index.m3u8",
+        "https://vip.languangjituan.cn/20240401/xN6mXMR0/2000kb/hls/index.m3u8"
       ],
-      "tags": ["科幻", "冒险", "亲情"]
+      "tags": ["喜剧", "励志", "2024"]
     },
     {
       "id": "2",
-      "title": "盗梦空间",
+      "title": "飞驰人生2",
       "category": "电影",
-      "year": "2010",
-      "rating": "9.3",
+      "year": "2024",
+      "rating": "8.0",
       "quality": "1080P",
-      "poster": "https://picsum.photos/seed/inception/400/600",
-      "description": "在梦境与现实之间穿梭，层层嵌套的意识迷宫",
+      "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2894040219.jpg",
+      "description": "沈腾主演，赛车题材喜剧，延续第一部的热血与搞笑",
       "play_url": [
-        "https://cctv1hlsyy.v.btime.com/live_broadcast/cctv1_hd/playlist.m3u8",
-        "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+        "https://vip.languangjituan.cn/20240221/MZ9iWCVm/2000kb/hls/index.m3u8",
+        "https://vip.languangjituan.cn/20240222/wLw2J6yE/2000kb/hls/index.m3u8"
       ],
-      "tags": ["科幻", "悬疑", "动作"]
+      "tags": ["喜剧", "赛车", "2024"]
     },
     {
       "id": "3",
-      "title": "肖申克的救赎",
+      "title": "第二十条",
       "category": "电影",
-      "year": "1994",
-      "rating": "9.7",
+      "year": "2024",
+      "rating": "7.8",
       "quality": "1080P",
-      "poster": "https://picsum.photos/seed/shawshank/400/600",
-      "description": "一场谋杀案使银行家蒙冤入狱，二十年磨一剑的救赎之路",
+      "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890708234.jpg",
+      "description": "张艺谋执导，雷佳音、马丽主演的法律题材电影",
       "play_url": [
-        "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-        "https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-576p.mp4"
+        "https://vip.languangjituan.cn/20240315/pj5eZ4dH/2000kb/hls/index.m3u8"
       ],
-      "tags": ["剧情", "救赎", "希望"]
+      "tags": ["剧情", "法律", "2024"]
     },
     {
       "id": "4",
+      "title": "繁花",
+      "category": "电视剧",
+      "year": "2024",
+      "rating": "8.7",
+      "quality": "4K",
+      "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2898816963.jpg",
+      "description": "王家卫执导首部电视剧，胡歌主演，展现90年代上海商战风云",
+      "play_url": [
+        "https://vip.languangjituan.cn/20240109/bwWzP7nT/2000kb/hls/index.m3u8",
+        "https://vip.languangjituan.cn/20240110/wcFNK0Xq/2000kb/hls/index.m3u8"
+      ],
+      "tags": ["商战", "年代剧", "2024"]
+    },
+    {
+      "id": "5",
+      "title": "庆余年2",
+      "category": "电视剧",
+      "year": "2024",
+      "rating": "8.3",
+      "quality": "1080P",
+      "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2898816963.jpg",
+      "description": "张若昀、李沁主演的古装权谋剧，热度超高的续集之作",
+      "play_url": [
+        "https://vip.languangjituan.cn/20240516/Xr8cT2Hm/2000kb/hls/index.m3u8",
+        "https://vip.languangjituan.cn/20240517/ZW6bK1Pq/2000kb/hls/index.m3u8"
+      ],
+      "tags": ["古装", "权谋", "2024"]
+    },
+    {
+      "id": "6",
+      "title": "与凤行",
+      "category": "电视剧",
+      "year": "2024",
+      "rating": "7.9",
+      "quality": "1080P",
+      "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2894040219.jpg",
+      "description": "赵丽颖、林更新主演，仙侠题材古装剧",
+      "play_url": [
+        "https://vip.languangjituan.cn/20240321/qL3wK7pN/2000kb/hls/index.m3u8"
+      ],
+      "tags": ["仙侠", "古装", "2024"]
+    },
+    {
+      "id": "7",
+      "title": "墨雨云间",
+      "category": "电视剧",
+      "year": "2024",
+      "rating": "7.6",
+      "quality": "1080P",
+      "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890708234.jpg",
+      "description": "吴谨言、王星越主演的古装复仇剧",
+      "play_url": [
+        "https://vip.languangjituan.cn/20240528/Xk9Lq3Pw/2000kb/hls/index.m3u8"
+      ],
+      "tags": ["古装", "复仇", "2024"]
+    },
+    {
+      "id": "8",
+      "title": "狐妖小红娘月红篇",
+      "category": "电视剧",
+      "year": "2024",
+      "rating": "7.4",
+      "quality": "1080P",
+      "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890441244.jpg",
+      "description": "杨幂、龚俊主演，改编自同名动漫的奇幻剧",
+      "play_url": [
+        "https://vip.languangjituan.cn/20240524/Mp9Lq3Kw/2000kb/hls/index.m3u8"
+      ],
+      "tags": ["奇幻", "漫改", "2024"]
+    },
+    {
+      "id": "9",
+      "title": "承欢记",
+      "category": "电视剧",
+      "year": "2024",
+      "rating": "7.5",
+      "quality": "1080P",
+      "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2894040219.jpg",
+      "description": "杨紫、许魏洲主演，都市情感剧",
+      "play_url": [
+        "https://vip.languangjituan.cn/20240419/Hp8Lq3Kw/2000kb/hls/index.m3u8"
+      ],
+      "tags": ["都市", "情感", "2024"]
+    },
+    {
+      "id": "10",
+      "title": "城中之城",
+      "category": "电视剧",
+      "year": "2024",
+      "rating": "7.8",
+      "quality": "1080P",
+      "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2898816963.jpg",
+      "description": "白宇帆、于和伟主演，金融题材悬疑剧",
+      "play_url": [
+        "https://vip.languangjituan.cn/20240412/Kp7Lq3Kw/2000kb/hls/index.m3u8"
+      ],
+      "tags": ["金融", "悬疑", "2024"]
+    },
+    {
+      "id": "11",
+      "title": "消失的她",
+      "category": "电影",
+      "year": "2023",
+      "rating": "8.7",
+      "quality": "1080P",
+      "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2885152586.jpg",
+      "description": "朱一龙、倪妮主演，悬疑烧脑的犯罪片",
+      "play_url": [
+        "https://vip.languangjituan.cn/20231015/nJz0K1Qw/2000kb/hls/index.m3u8",
+        "https://vip.languangjituan.cn/20231016/pLw3Km7H/2000kb/hls/index.m3u8"
+      ],
+      "tags": ["悬疑", "犯罪", "2023"]
+    },
+    {
+      "id": "12",
+      "title": "八角笼中",
+      "category": "电影",
+      "year": "2023",
+      "rating": "8.2",
+      "quality": "1080P",
+      "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2888873231.jpg",
+      "description": "王宝强执导并主演，真实事件改编的励志电影",
+      "play_url": [
+        "https://vip.languangjituan.cn/20231118/Xz7Kq2Mw/2000kb/hls/index.m3u8"
+      ],
+      "tags": ["励志", "真实改编", "2023"]
+    },
+    {
+      "id": "13",
+      "title": "孤注一掷",
+      "category": "电影",
+      "year": "2023",
+      "rating": "8.0",
+      "quality": "1080P",
+      "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2888873231.jpg",
+      "description": "张艺兴、金晨主演，反诈题材电影",
+      "play_url": [
+        "https://vip.languangjituan.cn/20231208/Mq9Kq3Nw/2000kb/hls/index.m3u8"
+      ],
+      "tags": ["反诈", "犯罪", "2023"]
+    },
+    {
+      "id": "14",
+      "title": "长安三万里",
+      "category": "动漫",
+      "year": "2023",
+      "rating": "8.3",
+      "quality": "1080P",
+      "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2888873231.jpg",
+      "description": "追光动画出品，以李白、高适的友谊展现大唐盛世",
+      "play_url": [
+        "https://vip.languangjituan.cn/20231215/Np8Kq4Ow/2000kb/hls/index.m3u8"
+      ],
+      "tags": ["动画", "历史", "2023"]
+    },
+    {
+      "id": "15",
+      "title": "奥本海默",
+      "category": "电影",
+      "year": "2023",
+      "rating": "8.8",
+      "quality": "4K",
+      "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2885152586.jpg",
+      "description": "克里斯托弗·诺兰执导，基里安·墨菲主演，二战原子弹之父传记",
+      "play_url": [
+        "https://vip.languangjituan.cn/20231222/Op7Kq5Pw/2000kb/hls/index.m3u8"
+      ],
+      "tags": ["传记", "历史", "诺兰"]
+    },
+    {
+      "id": "16",
       "title": "狂飙",
       "category": "电视剧",
       "year": "2023",
       "rating": "8.5",
       "quality": "1080P",
-      "poster": "https://picsum.photos/seed/k狂飙/400/600",
-      "description": "京海市一线刑警与黑恶势力头目二十年的正邪交锋",
+      "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2885152586.jpg",
+      "description": "张译、张颂文主演，现象级扫黑除恶剧",
       "play_url": [
-        "https://cctv8hls.v.btime.com/live_broadcast/cctv8_hd/playlist.m3u8",
-        "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+        "https://vip.languangjituan.cn/20230127/Mk3Qw9Rt/2000kb/hls/index.m3u8",
+        "https://vip.languangjituan.cn/20230128/Nk4Rt8Qs/2000kb/hls/index.m3u8"
       ],
-      "tags": ["犯罪", "悬疑", "剧情"]
+      "tags": ["扫黑", "犯罪", "2023"]
     },
     {
-      "id": "5",
-      "title": "流浪地球2",
-      "category": "电影",
+      "id": "17",
+      "title": "漫长的季节",
+      "category": "电视剧",
       "year": "2023",
-      "rating": "8.3",
-      "quality": "4K",
-      "poster": "https://picsum.photos/seed/wanderingearth/400/600",
-      "description": "太阳即将毁灭，人类建造行星发动机推动地球逃离太阳系",
-      "play_url": [
-        "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
-      ],
-      "tags": ["科幻", "灾难", "冒险"]
-    },
-    {
-      "id": "6",
-      "title": "进击的巨人",
-      "category": "动漫",
-      "year": "2013",
-      "rating": "9.2",
+      "rating": "9.1",
       "quality": "1080P",
-      "poster": "https://picsum.photos/seed/titan/400/600",
-      "description": "人类与巨人之间的生死搏斗，揭开世界的真相",
+      "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2888873231.jpg",
+      "description": "范伟、秦昊主演，年代悬疑剧，口碑爆棚",
       "play_url": [
-        "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+        "https://vip.languangjituan.cn/20230406/Pq5St7Ru/2000kb/hls/index.m3u8"
       ],
-      "tags": ["动漫", "热血", "悬疑"]
+      "tags": ["悬疑", "年代", "2023"]
     },
     {
-      "id": "7",
-      "title": "地球脉动",
-      "category": "纪录片",
-      "year": "2006",
-      "rating": "9.7",
-      "quality": "4K",
-      "poster": "https://picsum.photos/seed/earth/400/600",
-      "description": "BBC制作的自然纪录片，展现地球的壮美与生命的奇迹",
-      "play_url": [
-        "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-        "https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-576p.mp4"
-      ],
-      "tags": ["纪录片", "自然", "探索"]
-    },
-    {
-      "id": "8",
-      "title": "泰坦尼克号",
+      "id": "18",
+      "title": "九龙城寨之围城",
       "category": "电影",
-      "year": "1997",
-      "rating": "9.4",
+      "year": "2024",
+      "rating": "8.1",
       "quality": "1080P",
-      "poster": "https://picsum.photos/seed/titanic/400/600",
-      "description": "一段跨越阶级的爱情故事，一艘注定沉没的豪华游轮",
+      "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2898816963.jpg",
+      "description": "古天乐、洪金宝主演，动作港片",
       "play_url": [
-        "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-        "https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-576p.mp4"
+        "https://vip.languangjituan.cn/20240510/Sp6Tu8Sv/2000kb/hls/index.m3u8"
       ],
-      "tags": ["爱情", "灾难", "经典"]
+      "tags": ["动作", "港片", "2024"]
+    },
+    {
+      "id": "19",
+      "title": "哥斯拉大战金刚2",
+      "category": "电影",
+      "year": "2024",
+      "rating": "7.5",
+      "quality": "4K",
+      "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2894040219.jpg",
+      "description": "科幻怪兽大片，两大巨兽联手对抗新威胁",
+      "play_url": [
+        "https://vip.languangjituan.cn/20240428/Up7Uv9Tw/2000kb/hls/index.m3u8"
+      ],
+      "tags": ["科幻", "怪兽", "2024"]
+    },
+    {
+      "id": "20",
+      "title": "年会不能停",
+      "category": "电影",
+      "year": "2024",
+      "rating": "8.1",
+      "quality": "1080P",
+      "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2898816963.jpg",
+      "description": "大鹏、白客主演，职场喜剧讽刺电影",
+      "play_url": [
+        "https://vip.languangjituan.cn/20240126/Vp8Wv0Ux/2000kb/hls/index.m3u8"
+      ],
+      "tags": ["喜剧", "职场", "2024"]
+    },
+    {
+      "id": "21",
+      "title": "周处除三害",
+      "category": "电影",
+      "year": "2024",
+      "rating": "8.4",
+      "quality": "1080P",
+      "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2894040219.jpg",
+      "description": "阮经天主演，台湾犯罪动作片",
+      "play_url": [
+        "https://vip.languangjituan.cn/20240308/Wp9Xw1Vy/2000kb/hls/index.m3u8"
+      ],
+      "tags": ["动作", "犯罪", "2024"]
+    },
+    {
+      "id": "22",
+      "title": "沙丘2",
+      "category": "电影",
+      "year": "2024",
+      "rating": "8.6",
+      "quality": "4K",
+      "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2898816963.jpg",
+      "description": "丹尼斯·维伦纽瓦执导，史诗科幻巨制",
+      "play_url": [
+        "https://vip.languangjituan.cn/20240405/Xp0Yx2Wz/2000kb/hls/index.m3u8"
+      ],
+      "tags": ["科幻", "史诗", "2024"]
+    },
+    {
+      "id": "23",
+      "title": "功夫熊猫4",
+      "category": "动漫",
+      "year": "2024",
+      "rating": "7.2",
+      "quality": "1080P",
+      "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2894040219.jpg",
+      "description": "梦工厂动画系列新作，阿宝的全新冒险",
+      "play_url": [
+        "https://vip.languangjituan.cn/20240322/Yp1Zy3Xa/2000kb/hls/index.m3u8"
+      ],
+      "tags": ["动画", "喜剧", "2024"]
+    },
+    {
+      "id": "24",
+      "title": "你想活出怎样的人生",
+      "category": "动漫",
+      "year": "2024",
+      "rating": "7.7",
+      "quality": "1080P",
+      "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2898816963.jpg",
+      "description": "宫崎骏执导，获奥斯卡最佳动画长片",
+      "play_url": [
+        "https://vip.languangjituan.cn/20240418/Zp2Aa4Yb/2000kb/hls/index.m3u8"
+      ],
+      "tags": ["动画", "宫崎骏", "2024"]
     }
   ],
   "categories": ["全部", "电影", "电视剧", "动漫", "纪录片", "综艺"]

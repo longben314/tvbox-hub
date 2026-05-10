@@ -1,65 +1,103 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV-1综合" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CCTV-1.png" group-title="央视频道",CCTV-1 综合
-https://cctv1hlsyy.v.btime.com/live_broadcast/cctv1_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV-2财经" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9e/CCTV-2.png" group-title="央视频道",CCTV-2 财经
-https://cctv2hlsyy.v.btime.com/live_broadcast/cctv2_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV-3综艺" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e8/CCTV-3.png" group-title="央视频道",CCTV-3 综艺
-https://cctv3hlsyy.v.btime.com/live_broadcast/cctv3_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV-4中文国际" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4f/CCTV-4.png" group-title="央视频道",CCTV-4 中文国际
-https://cctv4hlsyy.v.btime.com/live_broadcast/cctv4_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV-5体育" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f7/CCTV-5.png" group-title="体育频道",CCTV-5 体育
-https://cctv5hlsyy.v.btime.com/live_broadcast/cctv5_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV-6电影" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/77/CCTV-6.png" group-title="影视频道",CCTV-6 电影
-https://cctv6hlsyy.v.btime.com/live_broadcast/cctv6_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV-7国防军事" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/2c/CCTV-7.png" group-title="央视频道",CCTV-7 国防军事
-https://cctv7hlsyy.v.btime.com/live_broadcast/cctv7_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV-8电视剧" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a3/CCTV-8.png" group-title="影视频道",CCTV-8 电视剧
-https://cctv8hlsyy.v.btime.com/live_broadcast/cctv8_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV-9纪录" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/2f/CCTV-9.png" group-title="央视频道",CCTV-9 纪录
-https://cctv9hlsyy.v.btime.com/live_broadcast/cctv9_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV-10科教" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/be/CCTV-10.png" group-title="央视频道",CCTV-10 科教
-https://cctv10hlsyy.v.btime.com/live_broadcast/cctv10_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV-11戏曲" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/93/CCTV-11.png" group-title="央视频道",CCTV-11 戏曲
-https://cctv11hlsyy.v.btime.com/live_broadcast/cctv11_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV-12社会与法" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e2/CCTV-12.png" group-title="央视频道",CCTV-12 社会与法
-https://cctv12hlsyy.v.btime.com/live_broadcast/cctv12_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV-13新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f1/CCTV-13.png" group-title="新闻频道",CCTV-13 新闻
-https://cctv13hlsyy.v.btime.com/live_broadcast/cctv13_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV-14少儿" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/32/CCTV-14.png" group-title="央视频道",CCTV-14 少儿
-https://cctv14hlsyy.v.btime.com/live_broadcast/cctv14_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV-15音乐" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4e/CCTV-15.png" group-title="央视频道",CCTV-15 音乐
-https://cctv15hlsyy.v.btime.com/live_broadcast/cctv15_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV-1" group-title="教育频道",CETV-1 教育
-https://cctv1hlsyy.v.btime.com/live_broadcast/cctv1_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="BTV1" tvg-name="北京卫视" group-title="地方卫视",北京卫视
-https://btyxsa.v.btime.com/live_broadcast/btv1_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="BTV2" tvg-name="北京文艺" group-title="地方卫视",北京文艺
-https://btyxsa.v.btime.com/live_broadcast/btv2_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="HTV1" tvg-name="湖南卫视" group-title="地方卫视",湖南卫视
-https://live3.titan.mgtv.com/live/stream2/playlist.m3u8
-#EXTINF:-1 tvg-id="ZJTV" tvg-name="浙江卫视" group-title="地方卫视",浙江卫视
-https://zjkspb.v.btime.com/live_broadcast/zjtv_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="JSTV" tvg-name="江苏卫视" group-title="地方卫视",江苏卫视
-https://jshls.v.btime.com/live_broadcast/jstv_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="AHTV" tvg-name="安徽卫视" group-title="地方卫视",安徽卫视
-https://ahlsa.v.btime.com/live_broadcast/ahv1_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="SDTV" tvg-name="山东卫视" group-title="地方卫视",山东卫视
-https://sdlsa.v.btime.com/live_broadcast/sdtv_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="HBN" tvg-name="湖北卫视" group-title="地方卫视",湖北卫视
-https://hblsa.v.btime.com/live_broadcast/hbtv_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="GZTV" tvg-name="广东卫视" group-title="地方卫视",广东卫视
-https://gzlsa.v.btime.com/live_broadcast/gdtv_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="SCTV" tvg-name="四川卫视" group-title="地方卫视",四川卫视
-https://sclsa.v.btime.com/live_broadcast/sctv_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="Liaoning" tvg-name="辽宁卫视" group-title="地方卫视",辽宁卫视
-https://lnlsa.v.btime.com/live_broadcast/lntv_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="DJ" tvg-name="东方卫视" group-title="地方卫视",东方卫视
-https://dfsc.v.btime.com/live_broadcast/dftv_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="TJTV" tvg-name="天津卫视" group-title="地方卫视",天津卫视
-https://tjlsa.v.btime.com/live_broadcast/tjtv_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="CQTV" tvg-name="重庆卫视" group-title="地方卫视",重庆卫视
-https://cqlsa.v.btime.com/live_broadcast/cqtv_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="HNTV" tvg-name="河南卫视" group-title="地方卫视",河南卫视
-https://hnlsa.v.btime.com/live_broadcast/hntv_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="DEMO" tvg-name="测试频道" group-title="测试",测试频道
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV-2财经" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9e/CCTV-2.png" group-title="央视频道",CCTV-2 财经
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV-3综艺" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e8/CCTV-3.png" group-title="央视频道",CCTV-3 综艺
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV-4中文国际" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4f/CCTV-4.png" group-title="央视频道",CCTV-4 中文国际
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV-5体育" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f7/CCTV-5.png" group-title="体育频道",CCTV-5 体育
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV-6电影" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/77/CCTV-6.png" group-title="影视频道",CCTV-6 电影
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV-7国防军事" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/2c/CCTV-7.png" group-title="央视频道",CCTV-7 国防军事
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV-8电视剧" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a3/CCTV-8.png" group-title="影视频道",CCTV-8 电视剧
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV-9纪录" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/2f/CCTV-9.png" group-title="央视频道",CCTV-9 纪录
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV-10科教" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/be/CCTV-10.png" group-title="央视频道",CCTV-10 科教
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV-11戏曲" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/93/CCTV-11.png" group-title="央视频道",CCTV-11 戏曲
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV-12社会与法" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e2/CCTV-12.png" group-title="央视频道",CCTV-12 社会与法
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV-13新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f1/CCTV-13.png" group-title="新闻频道",CCTV-13 新闻
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV-14少儿" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/32/CCTV-14.png" group-title="央视频道",CCTV-14 少儿
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV-15音乐" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4e/CCTV-15.png" group-title="央视频道",CCTV-15 音乐
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV-1" group-title="教育频道",CETV-1 教育
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="BTV1" tvg-name="北京卫视" group-title="地方卫视",北京卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="BTV2" tvg-name="北京文艺" group-title="地方卫视",北京文艺
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="HTV1" tvg-name="湖南卫视" group-title="地方卫视",湖南卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="ZJTV" tvg-name="浙江卫视" group-title="地方卫视",浙江卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="JSTV" tvg-name="江苏卫视" group-title="地方卫视",江苏卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="AHTV" tvg-name="安徽卫视" group-title="地方卫视",安徽卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="SDTV" tvg-name="山东卫视" group-title="地方卫视",山东卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="HBN" tvg-name="湖北卫视" group-title="地方卫视",湖北卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="GZTV" tvg-name="广东卫视" group-title="地方卫视",广东卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="SCTV" tvg-name="四川卫视" group-title="地方卫视",四川卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="Liaoning" tvg-name="辽宁卫视" group-title="地方卫视",辽宁卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="DJ" tvg-name="东方卫视" group-title="地方卫视",东方卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="TJTV" tvg-name="天津卫视" group-title="地方卫视",天津卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="CQTV" tvg-name="重庆卫视" group-title="地方卫视",重庆卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="HNTV" tvg-name="河南卫视" group-title="地方卫视",河南卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="SXTV" tvg-name="陕西卫视" group-title="地方卫视",陕西卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="FJTV" tvg-name="福建卫视" group-title="地方卫视",福建卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="HNSTV" tvg-name="海南卫视" group-title="地方卫视",海南卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="YNTV" tvg-name="云南卫视" group-title="地方卫视",云南卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="GXTV" tvg-name="广西卫视" group-title="地方卫视",广西卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="JXTV" tvg-name="江西卫视" group-title="地方卫视",江西卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="HBT" tvg-name="湖北卫视" group-title="地方卫视",湖北卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="HBTV" tvg-name="河北卫视" group-title="地方卫视",河北卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="SXTVS" tvg-name="山西卫视" group-title="地方卫视",山西卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="LNT" tvg-name="辽宁卫视" group-title="地方卫视",辽宁卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="JLT" tvg-name="吉林卫视" group-title="地方卫视",吉林卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="HLJTV" tvg-name="黑龙江卫视" group-title="地方卫视",黑龙江卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="NMTV" tvg-name="内蒙古卫视" group-title="地方卫视",内蒙古卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="XJTV" tvg-name="新疆卫视" group-title="地方卫视",新疆卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="XZTV" tvg-name="西藏卫视" group-title="地方卫视",西藏卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="NXTV" tvg-name="宁夏卫视" group-title="地方卫视",宁夏卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="GSTV" tvg-name="甘肃卫视" group-title="地方卫视",甘肃卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="QHTV" tvg-name="青海卫视" group-title="地方卫视",青海卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="TEST1" tvg-name="测试频道1" group-title="测试频道",测试频道1
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="TEST2" tvg-name="测试频道2" group-title="测试频道",测试频道2
+https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-576p.mp4

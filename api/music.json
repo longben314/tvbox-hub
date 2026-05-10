@@ -5,7 +5,7 @@
       "name": "热歌精选",
       "artist": "热门歌手",
       "category": "流行",
-      "cover": "https://picsum.photos/seed/pop1/400/400",
+      "cover": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=400&h=400&fit=crop",
       "songs": [
         {
           "id": "101",
@@ -32,6 +32,27 @@
             "[16.00] 可能我们都是路过",
             "[24.00] 可能这就是人生"
           ]
+        },
+        {
+          "id": "103",
+          "title": "少年",
+          "artist": "梦然",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+          "duration": 245
+        },
+        {
+          "id": "104",
+          "title": "人世间",
+          "artist": "雷佳",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+          "duration": 289
+        },
+        {
+          "id": "105",
+          "title": "如愿",
+          "artist": "王菲",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+          "duration": 321
         }
       ]
     },
@@ -40,13 +61,13 @@
       "name": "抖音神曲",
       "artist": "多位歌手",
       "category": "流行",
-      "cover": "https://picsum.photos/seed/douyin/400/400",
+      "cover": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=400&h=400&fit=crop",
       "songs": [
         {
           "id": "201",
           "title": "在年少的光里走",
           "artist": "王OK",
-          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
           "duration": 234,
           "lyrics": [
             "[0.00] 在年少的光里走",
@@ -59,7 +80,7 @@
           "id": "202",
           "title": "像星星一样",
           "artist": "DJ",
-          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
           "duration": 289,
           "lyrics": [
             "[0.00] 你是夜空中最亮的星",
@@ -72,8 +93,29 @@
           "id": "203",
           "title": "所爱",
           "artist": "艾辰",
-          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
           "duration": 256
+        },
+        {
+          "id": "204",
+          "title": "再见深海",
+          "artist": "唐汉霄",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+          "duration": 312
+        },
+        {
+          "id": "205",
+          "title": "向云端",
+          "artist": "小霞",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+          "duration": 278
+        },
+        {
+          "id": "206",
+          "title": "笼",
+          "artist": "张碧晨",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+          "duration": 298
         }
       ]
     },
@@ -82,13 +124,13 @@
       "name": "华语经典",
       "artist": "天王天后",
       "category": "华语",
-      "cover": "https://picsum.photos/seed/classic/400/400",
+      "cover": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=400&h=400&fit=crop",
       "songs": [
         {
           "id": "301",
           "title": "晴天",
           "artist": "周杰伦",
-          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
           "duration": 267,
           "lyrics": [
             "[0.00] 故事的小黄花",
@@ -101,15 +143,36 @@
           "id": "302",
           "title": "稻香",
           "artist": "周杰伦",
-          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
           "duration": 234
         },
         {
           "id": "303",
           "title": "体面",
           "artist": "于文文",
-          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
           "duration": 245
+        },
+        {
+          "id": "304",
+          "title": "十年",
+          "artist": "陈奕迅",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+          "duration": 325
+        },
+        {
+          "id": "305",
+          "title": "江南",
+          "artist": "林俊杰",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3",
+          "duration": 287
+        },
+        {
+          "id": "306",
+          "title": "遇见",
+          "artist": "孙燕姿",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+          "duration": 268
         }
       ]
     },
@@ -118,13 +181,13 @@
       "name": "电子舞曲",
       "artist": "EDM",
       "category": "电子",
-      "cover": "https://picsum.photos/seed/edm/400/400",
+      "cover": "https://images.unsplash.com/photo-1514525253440-b393452e8d26?w=400&h=400&fit=crop",
       "songs": [
         {
           "id": "401",
           "title": "Faded",
           "artist": "Alan Walker",
-          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
           "duration": 212,
           "lyrics": [
             "[0.00] Where are you now",
@@ -137,8 +200,22 @@
           "id": "402",
           "title": "Alone",
           "artist": "Marshmello",
-          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
           "duration": 189
+        },
+        {
+          "id": "403",
+          "title": "Titanium",
+          "artist": "David Guetta",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+          "duration": 245
+        },
+        {
+          "id": "404",
+          "title": "Wake Me Up",
+          "artist": "Avicii",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+          "duration": 278
         }
       ]
     },
@@ -147,13 +224,13 @@
       "name": "影视金曲",
       "artist": "OST",
       "category": "影视",
-      "cover": "https://picsum.photos/seed/ost/400/400",
+      "cover": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&h=400&fit=crop",
       "songs": [
         {
           "id": "501",
           "title": "去有风的地方",
           "artist": "郁可唯",
-          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
           "duration": 234,
           "lyrics": [
             "[0.00] 去有风的地方",
@@ -166,15 +243,43 @@
           "id": "502",
           "title": "长相思",
           "artist": "张碧晨",
-          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
           "duration": 267
         },
         {
           "id": "503",
           "title": "繁花",
           "artist": "周深",
-          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
           "duration": 245
+        },
+        {
+          "id": "504",
+          "title": "悬溺",
+          "artist": "葛东琪",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+          "duration": 289
+        },
+        {
+          "id": "505",
+          "title": "漠河舞厅",
+          "artist": "柳爽",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+          "duration": 312
+        },
+        {
+          "id": "506",
+          "title": "错位时空",
+          "artist": "艾辰",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+          "duration": 278
+        },
+        {
+          "id": "507",
+          "title": "白月光与朱砂痣",
+          "artist": "大籽",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+          "duration": 256
         }
       ]
     },
@@ -183,28 +288,49 @@
       "name": "轻音乐",
       "artist": "纯音乐",
       "category": "轻音乐",
-      "cover": "https://picsum.photos/seed/ambient/400/400",
+      "cover": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=400&h=400&fit=crop",
       "songs": [
         {
           "id": "601",
           "title": "雨的印记",
           "artist": "李闰珉",
-          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
           "duration": 356
         },
         {
           "id": "602",
           "title": "天空之城",
           "artist": "久石让",
-          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
           "duration": 289
         },
         {
           "id": "603",
           "title": "River Flows In You",
           "artist": "Yiruma",
-          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
           "duration": 198
+        },
+        {
+          "id": "604",
+          "title": "克罗地亚狂想曲",
+          "artist": "马克西姆",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3",
+          "duration": 267
+        },
+        {
+          "id": "605",
+          "title": "Canon",
+          "artist": "帕赫贝尔",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+          "duration": 321
+        },
+        {
+          "id": "606",
+          "title": "The Truth That You Leave",
+          "artist": "Pianoboy",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+          "duration": 245
         }
       ]
     },
@@ -213,13 +339,13 @@
       "name": "说唱热单",
       "artist": "rapper",
       "category": "说唱",
-      "cover": "https://picsum.photos/seed/rap/400/400",
+      "cover": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=400&h=400&fit=crop",
       "songs": [
         {
           "id": "701",
           "title": "经济舱",
           "artist": "KEY",
-          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
           "duration": 198,
           "lyrics": [
             "[0.00] 经济舱 经济舱",
@@ -232,8 +358,22 @@
           "id": "702",
           "title": "麒麟",
           "artist": "早安",
-          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
           "duration": 212
+        },
+        {
+          "id": "703",
+          "title": "雪 Distance",
+          "artist": "Capper",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+          "duration": 234
+        },
+        {
+          "id": "704",
+          "title": "别怕变老",
+          "artist": "艾热",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+          "duration": 289
         }
       ]
     },
@@ -242,13 +382,13 @@
       "name": "港台经典",
       "artist": "港台歌手",
       "category": "港台",
-      "cover": "https://picsum.photos/seed/hktw/400/400",
+      "cover": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=400&h=400&fit=crop",
       "songs": [
         {
           "id": "801",
           "title": "富士山下",
           "artist": "陈奕迅",
-          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
           "duration": 267,
           "lyrics": [
             "[0.00] 拦路雨偏似雪花 饮泣的你冻吗",
@@ -260,18 +400,120 @@
           "id": "802",
           "title": "匆匆那年",
           "artist": "王菲",
-          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
           "duration": 245
         },
         {
           "id": "803",
           "title": "说好的幸福呢",
           "artist": "周杰伦",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+          "duration": 256
+        },
+        {
+          "id": "804",
+          "title": "小幸运",
+          "artist": "田馥甄",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+          "duration": 298
+        },
+        {
+          "id": "805",
+          "title": "修炼爱情",
+          "artist": "林俊杰",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+          "duration": 312
+        },
+        {
+          "id": "806",
+          "title": "我怀念的",
+          "artist": "孙燕姿",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+          "duration": 278
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "民谣精选",
+      "artist": "民谣歌手",
+      "category": "民谣",
+      "cover": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=400&fit=crop",
+      "songs": [
+        {
+          "id": "901",
+          "title": "成都",
+          "artist": "赵雷",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+          "duration": 312
+        },
+        {
+          "id": "902",
+          "title": "安和桥",
+          "artist": "宋冬野",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+          "duration": 289
+        },
+        {
+          "id": "903",
+          "title": "南山南",
+          "artist": "马頔",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+          "duration": 267
+        },
+        {
+          "id": "904",
+          "title": "董小姐",
+          "artist": "宋冬野",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3",
+          "duration": 245
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "摇滚岁月",
+      "artist": "摇滚乐队",
+      "category": "摇滚",
+      "cover": "https://images.unsplash.com/photo-1498038432885-c6f3f1b912ee?w=400&h=400&fit=crop",
+      "songs": [
+        {
+          "id": "1001",
+          "title": "海阔天空",
+          "artist": "Beyond",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+          "duration": 325
+        },
+        {
+          "id": "1002",
+          "title": "光辉岁月",
+          "artist": "Beyond",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+          "duration": 287
+        },
+        {
+          "id": "1003",
+          "title": "蓝莲花",
+          "artist": "许巍",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+          "duration": 268
+        },
+        {
+          "id": "1004",
+          "title": "曾经的你",
+          "artist": "许巍",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+          "duration": 278
+        },
+        {
+          "id": "1005",
+          "title": "完美生活",
+          "artist": "许巍",
           "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
           "duration": 256
         }
       ]
     }
   ],
-  "categories": ["全部", "流行", "华语", "电子", "影视", "轻音乐", "说唱", "港台"]
+  "categories": ["全部", "流行", "华语", "电子", "影视", "轻音乐", "说唱", "港台", "民谣", "摇滚"]
 }

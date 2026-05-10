@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="新闻",CCTV-1 综合
+https://cctv1hlsyy.v.btime.com/live_broadcast/cctv1_hd/playlist.m3u8
+#EXTINF:-1 group-title="体育",CCTV-5 体育
+https://cctv5hlsyy.v.btime.com/live_broadcast/cctv5_hd/playlist.m3u8
+#EXTINF:-1 group-title="电影",CCTV-6 电影
+https://cctv6hlsyy.v.btime.com/live_broadcast/cctv6_hd/playlist.m3u8
+#EXTINF:-1 group-title="娱乐",湖南卫视
+https://live3.titan.mgtv.com/live/stream2/playlist.m3u8
+#EXTINF:-1 group-title="音乐",音乐频道
+https://ytxlk.live.360cnlive.com/live/ytxlk.m3u8
+#EXTINF:-1 group-title="游戏",电竞直播
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 group-title="教育",科教频道
+https://cctv10hls.v.btime.com/live_broadcast/cctv10_hd/playlist.m3u8
+#EXTINF:-1 group-title="体育",NBA直播
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 group-title="新闻",国际新闻
+https://live.bnn.nl/live/live1/live.m3u8
+#EXTINF:-1 group-title="生活",美食频道
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8

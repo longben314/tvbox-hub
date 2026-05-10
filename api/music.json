@@ -1,0 +1,146 @@
+{
+  "albums": [
+    {
+      "id": "1",
+      "name": "电子脉冲",
+      "artist": "Cyber Sound",
+      "category": "电子",
+      "cover": "https://picsum.photos/seed/electronic/400/400",
+      "songs": [
+        {
+          "id": "101",
+          "title": "Digital Dreams",
+          "artist": "Cyber Sound",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+          "duration": 367,
+          "lyrics": [
+            "[0.00] Welcome to the digital world",
+            "[5.00] Where dreams come alive",
+            "[10.00] Electric pulses flowing",
+            "[15.00] Through the midnight sky",
+            "[20.00] Neon lights are shining",
+            "[25.00] In the cyber night"
+          ]
+        },
+        {
+          "id": "102",
+          "title": "Neon City",
+          "artist": "Cyber Sound",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+          "duration": 402,
+          "lyrics": [
+            "[0.00] Walking through the neon city",
+            "[8.00] Lights are all around",
+            "[16.00] Digital heartbeat",
+            "[24.00] Echoes in the ground"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "古典精选",
+      "artist": "Symphony Orchestra",
+      "category": "古典",
+      "cover": "https://picsum.photos/seed/classical/400/400",
+      "songs": [
+        {
+          "id": "201",
+          "title": "Moonlight Sonata",
+          "artist": "Beethoven",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+          "duration": 382,
+          "lyrics": [
+            "[0.00] Moonlight shines so bright",
+            "[20.00] Through my window pane",
+            "[40.00] Melodies of love",
+            "[60.00] Fill the silent night"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "民谣时光",
+      "artist": "Acoustic Band",
+      "category": "民谣",
+      "cover": "https://picsum.photos/seed/folk/400/400",
+      "songs": [
+        {
+          "id": "301",
+          "title": "Country Road",
+          "artist": "Acoustic Band",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+          "duration": 289,
+          "lyrics": [
+            "[0.00] Country roads take me home",
+            "[5.00] To the place I belong",
+            "[10.00] West Virginia",
+            "[15.00] Mountain mama"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "摇滚力量",
+      "artist": "Thunder Band",
+      "category": "摇滚",
+      "cover": "https://picsum.photos/seed/rock/400/400",
+      "songs": [
+        {
+          "id": "401",
+          "title": "Rebel Heart",
+          "artist": "Thunder Band",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+          "duration": 342,
+          "lyrics": [
+            "[0.00] We are the rebels",
+            "[5.00] With a rebel heart",
+            "[10.00] Fighting for freedom",
+            "[15.00] We'll never part"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "爵士之夜",
+      "artist": "Blue Note",
+      "category": "爵士",
+      "cover": "https://picsum.photos/seed/jazz/400/400",
+      "songs": [
+        {
+          "id": "501",
+          "title": "Midnight Blues",
+          "artist": "Blue Note",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+          "duration": 356
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "流行精选",
+      "artist": "Pop Stars",
+      "category": "流行",
+      "cover": "https://picsum.photos/seed/pop/400/400",
+      "songs": [
+        {
+          "id": "601",
+          "title": "Summer Breeze",
+          "artist": "Pop Stars",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+          "duration": 298,
+          "lyrics": [
+            "[0.00] Summer breeze makes me feel fine",
+            "[5.00] Blowing through the jasmine in my mind",
+            "[10.00] Summer breeze makes me feel fine",
+            "[15.00] Blowing through the jasmine in my mind"
+          ]
+        }
+      ]
+    }
+  ],
+  "categories": ["全部", "电子", "古典", "民谣", "摇滚", "爵士", "流行"]
+}

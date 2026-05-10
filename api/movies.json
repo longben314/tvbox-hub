@@ -1,0 +1,126 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "星际穿越",
+      "category": "电影",
+      "year": "2014",
+      "rating": "9.4",
+      "quality": "4K",
+      "poster": "https://picsum.photos/seed/interstellar/400/600",
+      "description": "一队探险家利用虫洞穿越星际，寻找人类新家园的科幻巨作",
+      "play_url": [
+        "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-576p.mp4"
+      ],
+      "tags": ["科幻", "冒险", "亲情"]
+    },
+    {
+      "id": "2",
+      "title": "盗梦空间",
+      "category": "电影",
+      "year": "2010",
+      "rating": "9.3",
+      "quality": "1080P",
+      "poster": "https://picsum.photos/seed/inception/400/600",
+      "description": "在梦境与现实之间穿梭，层层嵌套的意识迷宫",
+      "play_url": [
+        "https://cctv1hlsyy.v.btime.com/live_broadcast/cctv1_hd/playlist.m3u8",
+        "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+      ],
+      "tags": ["科幻", "悬疑", "动作"]
+    },
+    {
+      "id": "3",
+      "title": "肖申克的救赎",
+      "category": "电影",
+      "year": "1994",
+      "rating": "9.7",
+      "quality": "1080P",
+      "poster": "https://picsum.photos/seed/shawshank/400/600",
+      "description": "一场谋杀案使银行家蒙冤入狱，二十年磨一剑的救赎之路",
+      "play_url": [
+        "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-576p.mp4"
+      ],
+      "tags": ["剧情", "救赎", "希望"]
+    },
+    {
+      "id": "4",
+      "title": "狂飙",
+      "category": "电视剧",
+      "year": "2023",
+      "rating": "8.5",
+      "quality": "1080P",
+      "poster": "https://picsum.photos/seed/k狂飙/400/600",
+      "description": "京海市一线刑警与黑恶势力头目二十年的正邪交锋",
+      "play_url": [
+        "https://cctv8hls.v.btime.com/live_broadcast/cctv8_hd/playlist.m3u8",
+        "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+      ],
+      "tags": ["犯罪", "悬疑", "剧情"]
+    },
+    {
+      "id": "5",
+      "title": "流浪地球2",
+      "category": "电影",
+      "year": "2023",
+      "rating": "8.3",
+      "quality": "4K",
+      "poster": "https://picsum.photos/seed/wanderingearth/400/600",
+      "description": "太阳即将毁灭，人类建造行星发动机推动地球逃离太阳系",
+      "play_url": [
+        "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
+      ],
+      "tags": ["科幻", "灾难", "冒险"]
+    },
+    {
+      "id": "6",
+      "title": "进击的巨人",
+      "category": "动漫",
+      "year": "2013",
+      "rating": "9.2",
+      "quality": "1080P",
+      "poster": "https://picsum.photos/seed/titan/400/600",
+      "description": "人类与巨人之间的生死搏斗，揭开世界的真相",
+      "play_url": [
+        "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+      ],
+      "tags": ["动漫", "热血", "悬疑"]
+    },
+    {
+      "id": "7",
+      "title": "地球脉动",
+      "category": "纪录片",
+      "year": "2006",
+      "rating": "9.7",
+      "quality": "4K",
+      "poster": "https://picsum.photos/seed/earth/400/600",
+      "description": "BBC制作的自然纪录片，展现地球的壮美与生命的奇迹",
+      "play_url": [
+        "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-576p.mp4"
+      ],
+      "tags": ["纪录片", "自然", "探索"]
+    },
+    {
+      "id": "8",
+      "title": "泰坦尼克号",
+      "category": "电影",
+      "year": "1997",
+      "rating": "9.4",
+      "quality": "1080P",
+      "poster": "https://picsum.photos/seed/titanic/400/600",
+      "description": "一段跨越阶级的爱情故事，一艘注定沉没的豪华游轮",
+      "play_url": [
+        "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-576p.mp4"
+      ],
+      "tags": ["爱情", "灾难", "经典"]
+    }
+  ],
+  "categories": ["全部", "电影", "电视剧", "动漫", "纪录片", "综艺"]
+}

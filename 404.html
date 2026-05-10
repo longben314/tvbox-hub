@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Redirecting...</title>
+  <script>
+    var pathSegments = window.location.pathname.split('/').filter(Boolean);
+    var hash = window.location.hash;
+    
+    if (!hash || hash === '#' || hash === '#/') {
+      window.location.href = window.location.origin + window.location.pathname + '#/movie';
+    } else {
+      window.location.href = window.location.origin + window.location.pathname + hash;
+    }
+  </script>
+</head>
+<body>
+  <p>Redirecting to home page...</p>
+  <p>If you are not redirected, <a href="#/movie">click here</a>.</p>
+</body>
+</html>
